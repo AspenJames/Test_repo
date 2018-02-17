@@ -1,1 +1,2 @@
-This is my readme file.\n It's pretty empty right now.
+This is my readme file.
+It's pretty empty right now.
